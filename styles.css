@@ -3,7 +3,7 @@
 /*--------------------------------------------*/
 :host {
     --root-text-color: #f00014;
-    --root-font-size: 14px;
+    --root-font-size: 20px;
     --root-line-height: 24px;
     --primary: #2196f3;
     --secondary: #88a0af;
@@ -35,7 +35,7 @@
 /* Card                                       */
 /*--------------------------------------------*/
 :host {
-    --card-textColor: #384249;
+    --card-textColor: #f00014;
     --card-borderRadius: 4px;
     --card-boxShadow: 0 2px 4px 0 rgba(0, 0, 0, 0.35);
     --card-primaryColor: #4a95ec;
@@ -83,7 +83,7 @@
 /*--------------------------------------------*/
 :host {
     --innerPage-bgColor: #657783;
-    --innerPage-textColor: #384249;
+    --innerPage-textColor: #f00014;
     --innerPage-fontSize: 18px;
     --innerPage-lineHeight: 34px;
     --innerPage-primaryColor: #4a95ec;
